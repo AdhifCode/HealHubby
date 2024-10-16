@@ -1,0 +1,100 @@
+[
+  {
+    "name": "article",
+    "path": "/article",
+    "component": "C:\\\\xampp\\\\htdocs\\\\PJBL_XII\\\\healhubby_frontend\\\\pages\\\\article\\\\index.vue",
+    "chunkName": "pages/article/index",
+    "_name": "_361ef730"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "C:\\\\xampp\\\\htdocs\\\\PJBL_XII\\\\healhubby_frontend\\\\pages\\\\contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_4150d188"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\xampp\\\\htdocs\\\\PJBL_XII\\\\healhubby_frontend\\\\pages\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/dashboard/index",
+    "_name": "_df78085c"
+  },
+  {
+    "name": "divide",
+    "path": "/divide",
+    "component": "C:\\\\xampp\\\\htdocs\\\\PJBL_XII\\\\healhubby_frontend\\\\pages\\\\divide.vue",
+    "chunkName": "pages/divide",
+    "_name": "_ad234ce6"
+  },
+  {
+    "name": "hubby",
+    "path": "/hubby",
+    "component": "C:\\\\xampp\\\\htdocs\\\\PJBL_XII\\\\healhubby_frontend\\\\pages\\\\hubby\\\\index.vue",
+    "chunkName": "pages/hubby/index",
+    "_name": "_ef891d4c"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "C:\\\\xampp\\\\htdocs\\\\PJBL_XII\\\\healhubby_frontend\\\\pages\\\\profile\\\\index.vue",
+    "chunkName": "pages/profile/index",
+    "_name": "_df1b46c6"
+  },
+  {
+    "name": "sign-in",
+    "path": "/sign-in",
+    "component": "C:\\\\xampp\\\\htdocs\\\\PJBL_XII\\\\healhubby_frontend\\\\pages\\\\sign-in.vue",
+    "chunkName": "pages/sign-in",
+    "_name": "_41e883d1"
+  },
+  {
+    "name": "sign-up",
+    "path": "/sign-up",
+    "component": "C:\\\\xampp\\\\htdocs\\\\PJBL_XII\\\\healhubby_frontend\\\\pages\\\\sign-up.vue",
+    "chunkName": "pages/sign-up",
+    "_name": "_567eda47"
+  },
+  {
+    "name": "auth-social-callback",
+    "path": "/auth/social-callback",
+    "component": "C:\\\\xampp\\\\htdocs\\\\PJBL_XII\\\\healhubby_frontend\\\\pages\\\\auth\\\\social-callback.vue",
+    "chunkName": "pages/auth/social-callback",
+    "_name": "_6c05efce"
+  },
+  {
+    "name": "dashboard-manage_article",
+    "path": "/dashboard/manage_article",
+    "component": "C:\\\\xampp\\\\htdocs\\\\PJBL_XII\\\\healhubby_frontend\\\\pages\\\\dashboard\\\\manage_article.vue",
+    "chunkName": "pages/dashboard/manage_article",
+    "_name": "_23dc5c4c"
+  },
+  {
+    "name": "dashboard-manage_user",
+    "path": "/dashboard/manage_user",
+    "component": "C:\\\\xampp\\\\htdocs\\\\PJBL_XII\\\\healhubby_frontend\\\\pages\\\\dashboard\\\\manage_user.vue",
+    "chunkName": "pages/dashboard/manage_user",
+    "_name": "_3239c1e5"
+  },
+  {
+    "name": "profile-update",
+    "path": "/profile/update",
+    "component": "C:\\\\xampp\\\\htdocs\\\\PJBL_XII\\\\healhubby_frontend\\\\pages\\\\profile\\\\update.vue",
+    "chunkName": "pages/profile/update",
+    "_name": "_424d6b0e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\xampp\\\\htdocs\\\\PJBL_XII\\\\healhubby_frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e1ef7824"
+  },
+  {
+    "name": "article-articlename",
+    "path": "/article/:articlename",
+    "component": "C:\\\\xampp\\\\htdocs\\\\PJBL_XII\\\\healhubby_frontend\\\\pages\\\\article\\\\_articlename.vue",
+    "chunkName": "pages/article/_articlename",
+    "_name": "_0195c658"
+  }
+]
