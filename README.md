@@ -1,17 +1,17 @@
 # ❤️‍🩹 HealHubby - Your Personal Health Companion
-**Website yang menyediakan artikel kesehatan yang terpercaya dan mudah dipahami, dilengkapi dengan fitur chat AI untuk menjawab pertanyaan pengguna seputar kesehatan. HealHubby bertujuan untuk membantu pengguna dalam menemukan informasi kesehatan yang mereka butuhkan, kapan pun dan di mana pun.**
+**A website that provides reliable and easy-to-understand health articles, equipped with an AI chat feature to answer users' health-related questions. HealHubby aims to help users find the health information they need, anytime and anywhere.**
 
-## ✨ Fitur Utama
-- Artikel Kesehatan Terpercaya: Berbagai artikel kesehatan yang ditulis dan diverifikasi oleh para ahli, mencakup berbagai topik mulai dari kesehatan umum, gaya hidup sehat, hingga pencegahan penyakit.
-- Chat AI Asisten Kesehatan: Fitur chatbot berbasis AI yang siap menjawab pertanyaan pengguna seputar kesehatan secara cepat dan akurat.
-- Navigasi Mudah: Antarmuka yang user-friendly, memudahkan pengguna untuk menemukan informasi yang mereka butuhkan.
+## ✨ Features
+- Trusted Health Articles: A collection of health articles written and verified by experts, covering a wide range of topics from general health, healthy lifestyle, to disease prevention.
+- AI Health Assistant Chat: An AI-powered chatbot feature that quickly and accurately answers users' health-related questions.
+- Easy Navigation: A user-friendly interface that makes it easy for users to find the information they need.
 
-## 📖 Cara Menggunakan
-- Kunjungi situs HealHubby.
-- Telusuri artikel kesehatan yang tersedia di halaman utama atau melalui fitur pencarian.
-- Gunakan fitur chat AI untuk mengajukan pertanyaan seputar kesehatan yang ingin Anda ketahui lebih lanjut.
+## 📖 How to Use
+- Visit the HealHubby website.
+- Browse health articles available on the main page or use the search feature.
+- Use the AI chat feature to ask health-related questions you want to know more about.
 
-## 💻 Teknologi yang Digunakan
+## 💻 Technology Used
 - Frontend: NuxtJS, Tailwind CSS, DaisyUI.
 - Backend: Node.js, Laravel
 - Database: MySql
