@@ -1,5 +1,4 @@
 # ❤️‍🩹 HealHubby - Your Personal Health Companion
-**Get reliable health information and AI-based assistance anytime, anywhere!**
 **Website yang menyediakan artikel kesehatan yang terpercaya dan mudah dipahami, dilengkapi dengan fitur chat AI untuk menjawab pertanyaan pengguna seputar kesehatan. HealHubby bertujuan untuk membantu pengguna dalam menemukan informasi kesehatan yang mereka butuhkan, kapan pun dan di mana pun.**
 
 ## ✨ Fitur Utama
