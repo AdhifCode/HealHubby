@@ -1,16 +1,22 @@
 {
-  "rewrites": [{ "source": "/(.*)", "destination": "/" }],
   "version": 2,
   "builds": [
     {
       "src": "nuxt.config.js",
-      "use": "@vercel/node"
+      "use": "@nuxtjs/vercel-builder",
+      "config": {
+        "serverFiles": ["package.json"]
+      }
     }
   ],
   "routes": [
     {
-      "src": "/(.*)",
-      "dest": "/"
+      "src": "/sw.js",
+      "continue": true,
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Service-Worker-Allowed": "/"
+      }
     }
   ]
 }
