@@ -20,5 +20,5 @@
 ## 📧 Contact
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/nadhifalazharuddiya)
-[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/aku.nadhifal/)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/adhifazh/)
 
